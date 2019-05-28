@@ -1,6 +1,10 @@
 # React native toasting
 
-A simple react native component for creating toasts / alerts . Something similar named [react-native-easy-toast]() does exist but it does not respond to touches meaning that the only difference between <code>rn-toast-alert</code> and <code>react-native-easy-toast</code> is that <code>rn-toast-alert</code> is using pan responder and the other one is not . It looks something like this after installing
+<br />
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
+A simple react native component for creating toasts / alerts . Something similar named [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast/) does exist but it does not respond to touches meaning that the only difference between <code>rn-toast-alert</code> and <code>react-native-easy-toast</code> is that <code>rn-toast-alert</code> is using pan responder and the other one is not . It looks something like this after installing
 
 <div style="text-align:center" ><img src="./example.gif" alt="example" width="300" /></div>
 
